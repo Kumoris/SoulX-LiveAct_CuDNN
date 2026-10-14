@@ -1,0 +1,153 @@
+{
+  "status": "frozen_reference_files_for_explicit_download_or_transfer",
+  "files": [
+    {
+      "path": "models/LiveAct/config.json",
+      "size": 511,
+      "sha256": "63810cd77a5acb72a10aed4394565b75a76b229d7838b4996a32022bd4ae602e",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/configuration.json",
+      "size": 64,
+      "sha256": "625c81a3527ce4f7a739854b431f380a987dc4af5e07e099b568e50e2e3b248c",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/diffusion_pytorch_model-00001-of-00004.safetensors",
+      "size": 9959864176,
+      "sha256": "13f67d7fb1299ea57377e79e104e4b6b6b5d0dc6169996de150603718c50903c",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/diffusion_pytorch_model-00002-of-00004.safetensors",
+      "size": 9987013400,
+      "sha256": "bb0093088a6f6ff6cfe6a3d96cdeb308a1c9c707174d703140dd228d244482a4",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/diffusion_pytorch_model-00003-of-00004.safetensors",
+      "size": 9966299200,
+      "sha256": "11dc45940b21e438959da11ef2f4a35d844d433715361d32c74373748d312ea8",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/diffusion_pytorch_model-00004-of-00004.safetensors",
+      "size": 7855197520,
+      "sha256": "4f56758049531a0dbc2c375b6a0b6a84818888d15e617c15c2e85e8cab26a67f",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/diffusion_pytorch_model.safetensors.index.json",
+      "size": 160585,
+      "sha256": "9784d457d2d13a690955b034a827b3fbdb598ccd8a6f10c156696cb7a717a4c9",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/models_clip_open-clip-xlm-roberta-large-vit-huge-14.pth",
+      "size": 4772359047,
+      "sha256": "628c9998b613391f193eb67ff68da9667d75f492911e4eb3decf23460a158c38",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/models_t5_umt5-xxl-enc-bf16.pth",
+      "size": 11361920418,
+      "sha256": "7cace0da2b446bbbbc57d031ab6cf163a3d59b366da94e5afe36745b746fd81d",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/xlm-roberta-large/sentencepiece.bpe.model",
+      "size": 5069051,
+      "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/google/umt5-xxl/special_tokens_map.json",
+      "size": 6623,
+      "sha256": "7b8a9f5040adb67b5805abdfd42c1f8d0f3d0e711f10726580eb3789cd0ad61d",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/xlm-roberta-large/special_tokens_map.json",
+      "size": 280,
+      "sha256": "06e405a36dfe4b9604f484f6a1e619af1a7f7d09e34a8555eb0b77b66318067f",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/google/umt5-xxl/spiece.model",
+      "size": 4548313,
+      "sha256": "e3909a67b780650b35cf529ac782ad2b6b26e6d1f849d3fbb6a872905f452458",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/google/umt5-xxl/tokenizer.json",
+      "size": 16837417,
+      "sha256": "6e197b4d3dbd71da14b4eb255f4fa91c9c1f2068b20a2de2472967ca3d22602b",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/xlm-roberta-large/tokenizer.json",
+      "size": 17082660,
+      "sha256": "62c24cdc13d4c9952d63718d6c9fa4c287974249e16b7ade6d5a85e7bbb75626",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/google/umt5-xxl/tokenizer_config.json",
+      "size": 61728,
+      "sha256": "ed9a3a8b0faa71a70a32847e0435fe036e6e112d4df4edb7bb48a921e344dc05",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/xlm-roberta-large/tokenizer_config.json",
+      "size": 418,
+      "sha256": "efb5c0d09722e5fe59a462cd2a9976ee216d55b037597d997cd3fe833216da15",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/LiveAct/Wan2.1_VAE.pth",
+      "size": 507609880,
+      "sha256": "38071ab59bd94681c686fa51d75a1968f64e470262043be31f7a094e442fd981",
+      "repo": "Soul-AILab/LiveAct",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/chinese-wav2vec2-base/config.json",
+      "size": 1951,
+      "sha256": "dc2cd2f989104b9510ce9e43a343a6f1fe55aa60baa1fcfca0c5908e6590b8b6",
+      "repo": "TencentGameMate/chinese-wav2vec2-base",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/chinese-wav2vec2-base/model.safetensors",
+      "size": 380204696,
+      "sha256": "b86f5be7b752fc655c27387a75712f733315a30f976e5875491599615399e773",
+      "repo": "TencentGameMate/chinese-wav2vec2-base",
+      "revision_requested": "master"
+    },
+    {
+      "path": "models/chinese-wav2vec2-base/preprocessor_config.json",
+      "size": 160,
+      "sha256": "c1707926644954affc391ab09ccfaf470ccd80af218d11350991090711441c09",
+      "repo": "TencentGameMate/chinese-wav2vec2-base",
+      "revision_requested": "master"
+    }
+  ],
+  "real_time_accepted": false
+}

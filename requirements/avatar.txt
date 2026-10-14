@@ -1,0 +1,16 @@
+diffusers==0.35.1
+accelerate==1.15.0
+easydict==1.13
+einops==0.8.2
+xfuser==0.4.5
+yunchang==0.6.4
+ftfy==6.3.1
+imageio==2.37.4
+imageio-ffmpeg==0.6.0
+opencv-python==5.0.0.93
+decord==0.6.0
+pyloudnorm==0.2.0
+scenedetect==0.7.1
+scikit-image==0.25.2
+moviepy==1.0.3
+safetensors==0.8.0

@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>登录 LiveAct</title>
+<style>body{font:16px system-ui;background:#f4f7f6;color:#263238;display:grid;min-height:90vh;place-items:center}main{background:white;padding:2rem;border-radius:16px;max-width:380px;width:80%}input,button{box-sizing:border-box;width:100%;padding:.8rem;margin-top:1rem;border-radius:8px;border:1px solid #ccd3df}button{background:#6366f1;color:white;cursor:pointer}p{line-height:1.6}.error{color:#b91c1c}</style>
+<main><h1>LiveAct</h1><p>输入本次服务的访问口令。</p>
+{% if error %}<p class="error">{{ error }}</p>{% endif %}
+<form method="post"><label for="token">访问口令</label><input id="token" name="token" type="password" autocomplete="current-password" required autofocus><button>进入</button></form></main></html>

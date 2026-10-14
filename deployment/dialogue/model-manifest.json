@@ -1,0 +1,80 @@
+{
+  "status": "frozen_reference_models_not_bundled",
+  "created_at": "2026-10-11T00:54:33.690022+08:00",
+  "deployment": "local_only_no_paid_api",
+  "models": [
+    {
+      "repo": "Systran/faster-whisper-small",
+      "revision": "536b0662742c02347bc0e980a01041f333bce120",
+      "directory": "models/dialogue/faster-whisper-small",
+      "files": [
+        {
+          "name": "config.json",
+          "size": 2370,
+          "lfs_sha256": null,
+          "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828"
+        },
+        {
+          "name": "model.bin",
+          "size": 483546902,
+          "lfs_sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+          "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671"
+        },
+        {
+          "name": "tokenizer.json",
+          "size": 2203239,
+          "lfs_sha256": null,
+          "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+        },
+        {
+          "name": "vocabulary.txt",
+          "size": 459861,
+          "lfs_sha256": null,
+          "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+        }
+      ]
+    },
+    {
+      "repo": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+      "revision": "7dabda4d13d513e3e842b20f0d435c732f172cbe",
+      "directory": "models/dialogue/Qwen2.5-3B-Instruct-GGUF",
+      "files": [
+        {
+          "name": "qwen2.5-3b-instruct-q4_k_m.gguf",
+          "size": 2104932768,
+          "lfs_sha256": "626b4a6678b86442240e33df819e00132d3ba7dddfe1cdc4fbb18e0a9615c62d",
+          "sha256": "626b4a6678b86442240e33df819e00132d3ba7dddfe1cdc4fbb18e0a9615c62d"
+        }
+      ]
+    },
+    {
+      "repo": "hexgrad/Kokoro-82M-v1.1-zh",
+      "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+      "directory": "models/dialogue/Kokoro-82M-v1.1-zh",
+      "files": [
+        {
+          "name": "config.json",
+          "size": 3228,
+          "lfs_sha256": null,
+          "sha256": "bc333efa5ce4ceff433c8c8e5d027a1eca0166001e4e4a62bea2d26ff7a46890"
+        },
+        {
+          "name": "kokoro-v1_1-zh.pth",
+          "size": 327247856,
+          "lfs_sha256": "b1d8410fa44dfb5c15471fd6c4225ea6b4e9ac7fa03c98e8bea47a9928476e2b",
+          "sha256": "b1d8410fa44dfb5c15471fd6c4225ea6b4e9ac7fa03c98e8bea47a9928476e2b"
+        },
+        {
+          "name": "voices/zf_001.pt",
+          "size": 523331,
+          "lfs_sha256": "9bdc9a87e13e9bb1ea3e7803259c2ecbfebaeeb2ff80b5d0c76df1a464c1c962",
+          "sha256": "9bdc9a87e13e9bb1ea3e7803259c2ecbfebaeeb2ff80b5d0c76df1a464c1c962"
+        }
+      ]
+    }
+  ],
+  "total_bytes": 2918919555,
+  "runtime_device": "cpu",
+  "avatar_gpus_reserved": 2,
+  "real_time_accepted": false
+}

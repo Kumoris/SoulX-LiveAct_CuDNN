@@ -1,0 +1,94 @@
+{
+  "repo": "hexgrad/Kokoro-82M-v1.1-zh",
+  "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+  "directory": "models/dialogue/Kokoro-82M-v1.1-zh",
+  "default_voice": "zf_003",
+  "voices": [
+    {
+      "id": "zf_001",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_001.pt",
+      "size": 523331,
+      "lfs_sha256": "9bdc9a87e13e9bb1ea3e7803259c2ecbfebaeeb2ff80b5d0c76df1a464c1c962"
+    },
+    {
+      "id": "zf_002",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_002.pt",
+      "size": 523331,
+      "lfs_sha256": "2c8cf221ff2e0915fc807cac5f233f42798ee8e2bd58bc5ad0259fd95e405a26"
+    },
+    {
+      "id": "zf_003",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_003.pt",
+      "size": 523331,
+      "lfs_sha256": "ac28a59eefaa7e37b2aabffc792d40081392aa89d679b579859debf5209441a1"
+    },
+    {
+      "id": "zf_004",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_004.pt",
+      "size": 523331,
+      "lfs_sha256": "6d50c3a87071a11d703d9d4ff7dd1f77fe6b8c5c3a9e60e81bc848816c0e959f"
+    },
+    {
+      "id": "zf_005",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_005.pt",
+      "size": 523331,
+      "lfs_sha256": "64d656103a908954496676529f4e8dee783afd4c8dccd1a9042cd8dbe05e39f4"
+    },
+    {
+      "id": "zf_006",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_006.pt",
+      "size": 523331,
+      "lfs_sha256": "ef341ad2c4ec5dab3bf32daa0a70b8779c5aba10a9e18f57e5b6b29c7ec93d37"
+    },
+    {
+      "id": "zf_007",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_007.pt",
+      "size": 523331,
+      "lfs_sha256": "52a966710a29b50d9d11df15b5572c28062d2edf89585fe2c14abe281e2e49a8"
+    },
+    {
+      "id": "zf_008",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_008.pt",
+      "size": 523331,
+      "lfs_sha256": "361c1da6b087284a66c803d413225a09d57334ab515a93d5e16a2d553d9941f6"
+    },
+    {
+      "id": "zf_017",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_017.pt",
+      "size": 523331,
+      "lfs_sha256": "e507bb858a75f0518f08918827740530a656a008e3c057435a17b3a95f267624"
+    },
+    {
+      "id": "zf_018",
+      "language": "zh",
+      "gender": "female",
+      "name": "voices/zf_018.pt",
+      "size": 523331,
+      "lfs_sha256": "e91abc6581fb0fe75a50059ec43ea702c0beef7356727d2d62698e0c58dbd9de"
+    }
+  ],
+  "selection_environment_variable": "LIVEACT_TTS_VOICE",
+  "user_requirement": "10 female voices; no male choices",
+  "human_voice_quality_accepted": false,
+  "selected_voice": "zf_003",
+  "selected_voice_human_accepted": true,
+  "selection_evidence": "runs/dialogue/voices-708273/human-selection.json"
+}
